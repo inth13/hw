@@ -1,0 +1,18 @@
+wrappers
+
+256 	outMemoryError
+512		spend msec:25206, sec:25 spend msec:24571, sec:24 spend msec:24269, sec:24
+768		spend msec:21520, sec:21 spend msec:21717, sec:21 spend msec:21365, sec:21
+1024	spend msec:23330, sec:23 spend msec:22840, sec:22 spend msec:22553, sec:22
+2048	spend msec:21918, sec:21 spend msec:20866, sec:20 spend msec:20823, sec:20
+2560 	spend msec:22154, sec:22 spend msec:20960, sec:20 spend msec:22115, sec:22
+3072	spend msec:22449, sec:22
+
+primitives
+
+2056 	spend msec:4461, sec:4 spend msec:4506, sec:4 spend msec:4488, sec:4
+1024 	spend msec:4405, sec:4 spend msec:4531, sec:4 spend msec:4679, sec:4
+512 	spend msec:4321, sec:4 spend msec:4251, sec:4 spend msec:4482, sec:4
+32 		spend msec:4378, sec:4 spend msec:4303, sec:4 spend msec:4365, sec:4
+8 		spend msec:4322, sec:4
+4 		OutOfMemoryError
